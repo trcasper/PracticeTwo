@@ -468,3 +468,4 @@ switch (athleteFinalPosition) {
   console.log('No medal awarded.')
   break;
 }
+
